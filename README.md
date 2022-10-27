@@ -10,4 +10,4 @@
 
 - ♾️ Known Languages **C++, HTML & CSS**
 
-## [My Portfolio](pingoda.guthub.io)
+## [My Portfolio](https://pingoda.github.io/)
