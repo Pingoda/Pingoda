@@ -1,4 +1,4 @@
-# Welcome to my Profile :hand_shake:
+# Welcome to my Profile 👋
 
 ## About Me:
 
