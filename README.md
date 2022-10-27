@@ -2,11 +2,9 @@
 
 ## About Me:
 
-- 🐧 I'm a **Penguin**
+- 🖥️ I love **Programming & Gaming**
 
-- 🖥️ Loves **Programming & Gaming**
-
-- 🌸 Likes **Anime & Mangas**
+- 🌸 I like **Anime & Mangas**
 
 - 🟣 Average **#9100ff Enjoyer**
 
